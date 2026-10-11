@@ -7,10 +7,10 @@
 </p>
 
 <p align="center">
-  <a href="https://hirjoaba-ioan.ro"><img src="https://img.shields.io/badge/Website-hirjoaba--ioan.ro-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
-  <a href="https://hirjoaba-ioan.ro/cv.html"><img src="https://img.shields.io/badge/CV-Read-2ea44f?style=for-the-badge&logo=readdotcv&logoColor=white" alt="CV"></a>
-  <a href="mailto:hirjoaba.ioan@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/ioan-h%C3%AErjoab%C4%83-266238103"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://hirjoaba-ioan.ro"><img src="https://hirjoaba-ioan.ro/gh/badges/website-hirjoaba--ioan.ro-0a66c2.svg" alt="Website"></a>
+  <a href="https://hirjoaba-ioan.ro/cv.html"><img src="https://hirjoaba-ioan.ro/gh/badges/cv-read-2ea44f.svg" alt="CV"></a>
+  <a href="mailto:hirjoaba.ioan@gmail.com"><img src="https://hirjoaba-ioan.ro/gh/badges/email-contact-d14836.svg" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/ioan-h%C3%AErjoab%C4%83-266238103"><img src="https://hirjoaba-ioan.ro/gh/badges/linkedin-connect-0a66c2.svg" alt="LinkedIn"></a>
 </p>
 
 ---
@@ -26,10 +26,10 @@
 ### 📈 In numbers
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Platforms_live-4-2ea44f?style=for-the-badge" alt="4 platforms live">
-  <img src="https://img.shields.io/badge/Functional_modules-60%2B-0A66C2?style=for-the-badge" alt="60+ modules">
-  <img src="https://img.shields.io/badge/AI_video_dubbing-40%2B_languages-8E75B2?style=for-the-badge" alt="40+ languages">
-  <img src="https://img.shields.io/badge/Team_size-1-F05032?style=for-the-badge" alt="Solo">
+  <img src="https://hirjoaba-ioan.ro/gh/badges/platforms_live-4-2ea44f.svg" alt="4 platforms live">
+  <img src="https://hirjoaba-ioan.ro/gh/badges/functional_modules-60plus-0a66c2.svg" alt="60+ modules">
+  <img src="https://hirjoaba-ioan.ro/gh/badges/ai_video_dubbing-40plus_languages-8e75b2.svg" alt="40+ languages">
+  <img src="https://hirjoaba-ioan.ro/gh/badges/team_size-1-f05032.svg" alt="Solo">
 </p>
 
 ### 🧩 What I'm building
@@ -48,43 +48,43 @@
 ### 🛠️ Tech stack
 
 **Backend**<br>
-<img src="https://img.shields.io/badge/PHP_8-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP">
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" alt="MariaDB">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
-<img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="REST">
+<img src="https://hirjoaba-ioan.ro/gh/badges/php_8-777bb4.svg" alt="PHP">
+<img src="https://hirjoaba-ioan.ro/gh/badges/node.js-339933.svg" alt="Node.js">
+<img src="https://hirjoaba-ioan.ro/gh/badges/python-3776ab.svg" alt="Python">
+<img src="https://hirjoaba-ioan.ro/gh/badges/mariadb-003545.svg" alt="MariaDB">
+<img src="https://hirjoaba-ioan.ro/gh/badges/mysql-4479a1.svg" alt="MySQL">
+<img src="https://hirjoaba-ioan.ro/gh/badges/rest_apis-ff6c37.svg" alt="REST">
 
 **Frontend**<br>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap">
-<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" alt="jQuery">
-<img src="https://img.shields.io/badge/D3.js-F9A03C?style=flat-square&logo=d3dotjs&logoColor=white" alt="D3">
-<img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white" alt="PWA">
+<img src="https://hirjoaba-ioan.ro/gh/badges/javascript-f7df1e.svg" alt="JavaScript">
+<img src="https://hirjoaba-ioan.ro/gh/badges/html5-e34f26.svg" alt="HTML5">
+<img src="https://hirjoaba-ioan.ro/gh/badges/css3-1572b6.svg" alt="CSS3">
+<img src="https://hirjoaba-ioan.ro/gh/badges/bootstrap-7952b3.svg" alt="Bootstrap">
+<img src="https://hirjoaba-ioan.ro/gh/badges/jquery-0769ad.svg" alt="jQuery">
+<img src="https://hirjoaba-ioan.ro/gh/badges/d3.js-f9a03c.svg" alt="D3">
+<img src="https://hirjoaba-ioan.ro/gh/badges/pwa-5a0fc8.svg" alt="PWA">
 
 **Infrastructure & DevOps**<br>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
-<img src="https://img.shields.io/badge/nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="nginx">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
-<img src="https://img.shields.io/badge/Hetzner-D50C2D?style=flat-square&logo=hetzner&logoColor=white" alt="Hetzner">
-<img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare">
-<img src="https://img.shields.io/badge/PM2-2B037A?style=flat-square&logo=pm2&logoColor=white" alt="PM2">
-<img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana">
-<img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus">
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+<img src="https://hirjoaba-ioan.ro/gh/badges/linux-fcc624.svg" alt="Linux">
+<img src="https://hirjoaba-ioan.ro/gh/badges/nginx-009639.svg" alt="nginx">
+<img src="https://hirjoaba-ioan.ro/gh/badges/docker-2496ed.svg" alt="Docker">
+<img src="https://hirjoaba-ioan.ro/gh/badges/hetzner-d50c2d.svg" alt="Hetzner">
+<img src="https://hirjoaba-ioan.ro/gh/badges/cloudflare-f38020.svg" alt="Cloudflare">
+<img src="https://hirjoaba-ioan.ro/gh/badges/pm2-2b037a.svg" alt="PM2">
+<img src="https://hirjoaba-ioan.ro/gh/badges/grafana-f46800.svg" alt="Grafana">
+<img src="https://hirjoaba-ioan.ro/gh/badges/prometheus-e6522c.svg" alt="Prometheus">
+<img src="https://hirjoaba-ioan.ro/gh/badges/git-f05032.svg" alt="Git">
 
 **Integrations & AI**<br>
-<img src="https://img.shields.io/badge/Stripe_Connect-635BFF?style=flat-square&logo=stripe&logoColor=white" alt="Stripe">
-<img src="https://img.shields.io/badge/Meta_Graph_API-0866FF?style=flat-square&logo=meta&logoColor=white" alt="Meta">
-<img src="https://img.shields.io/badge/TikTok_API-000000?style=flat-square&logo=tiktok&logoColor=white" alt="TikTok">
-<img src="https://img.shields.io/badge/YouTube_API-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube">
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp">
-<img src="https://img.shields.io/badge/S3_/_Wasabi-569A31?style=flat-square&logo=amazons3&logoColor=white" alt="S3">
-<img src="https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white" alt="FFmpeg">
-<img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude">
-<img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini">
+<img src="https://hirjoaba-ioan.ro/gh/badges/stripe_connect-635bff.svg" alt="Stripe">
+<img src="https://hirjoaba-ioan.ro/gh/badges/meta_graph_api-0866ff.svg" alt="Meta">
+<img src="https://hirjoaba-ioan.ro/gh/badges/tiktok_api-000000.svg" alt="TikTok">
+<img src="https://hirjoaba-ioan.ro/gh/badges/youtube_api-ff0000.svg" alt="YouTube">
+<img src="https://hirjoaba-ioan.ro/gh/badges/whatsapp-25d366.svg" alt="WhatsApp">
+<img src="https://hirjoaba-ioan.ro/gh/badges/s3___wasabi-569a31.svg" alt="S3">
+<img src="https://hirjoaba-ioan.ro/gh/badges/ffmpeg-007808.svg" alt="FFmpeg">
+<img src="https://hirjoaba-ioan.ro/gh/badges/claude-d97757.svg" alt="Claude">
+<img src="https://hirjoaba-ioan.ro/gh/badges/gemini-8e75b2.svg" alt="Gemini">
 
 ### 📊 GitHub stats
 
