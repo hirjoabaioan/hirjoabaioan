@@ -91,6 +91,7 @@
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=hirjoabaioan&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=tokyonight" alt="GitHub stats">
   <img height="165" src="https://streak-stats.demolab.com?user=hirjoabaioan&hide_border=true&theme=tokyonight" alt="GitHub streak">
+  ![Statistici GitHub](https://hirjoaba-ioan.ro/gh/stats.svg)
 </p>
 
 > Most of my work lives in private, commercial repositories — the numbers above include private contributions.
