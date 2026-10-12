@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Ioan Hîrjoabă 👋</h1>
+<h1 align="center">Hi, I'm Ioan Hîrjoabă</h1>
 
 <p align="center">
   <a href="https://hirjoaba-ioan.ro">
@@ -89,7 +89,7 @@
 ### 📊 GitHub stats
 
 <p align="center">
-  <img height="165" src="https://hirjoaba-ioan.ro/gh/stats.svg" alt="GitHub stats">
+  <img height="165" src="https://hirjoaba-ioan.ro/gh/stats.svg?v=2" alt="GitHub stats">
   <img height="165" src="https://streak-stats.demolab.com?user=hirjoabaioan&hide_border=true&theme=tokyonight" alt="GitHub streak">
 </p>
 
