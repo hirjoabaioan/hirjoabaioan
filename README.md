@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://hirjoaba-ioan.ro">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&center=true&vCenter=true&width=640&lines=Full-Stack+Engineer+%C2%B7+SaaS+Builder+%C2%B7+AI+Engineer;I+build+and+run+SaaS+platforms+in+production;PHP+%C2%B7+MariaDB+%C2%B7+Node+%C2%B7+nginx+%C2%B7+AI+agents" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&center=true&vCenter=true&width=640&lines=AI+Agent+Engineer+%C2%B7+Full-Stack;I+build+and+run+SaaS+with+LLM+agents+in+production;Guardrails+%C2%B7+Evals+%C2%B7+MCP+%C2%B7+Routing+%C2%B7+Metering" alt="Typing SVG" />
   </a>
 </p>
 
@@ -19,7 +19,8 @@
 
 - 🏗️ I design, build **and operate** production SaaS platforms end to end, solo — schema, backend, frontend, integrations, infra, monitoring.
 - 💼 Founder of **[IFindSpec](https://ifindspec.com)** / **[Avocățescu](https://avocatescu.ro)** (practice-management SaaS), **[StoryFuze](https://storyfuze.com)** (content creation & multi-channel publishing), **[Event Creator Hub](https://eventcreatorhub.com)** and **[WeddingPages](https://weddingpages.ro)**.
-- 🤖 I run my own **AI agent infrastructure** — router → orchestrator → sub-agents, plus an autonomous *healer* that fixes safe issues and escalates the rest.
+- 🤖 I build **LLM agents that act on real business data** — tool calling with RBAC and human-confirmed writes, messaging bots with autonomy levels, speech pipelines — and measure them with evals.
+- 🧰 I also run my own **agent development infrastructure**: router → orchestrator → sub-agents with gates and cost-aware model routing, plus an autonomous *healer*.
 - 🔐 Security-minded by default: prepared statements, CSRF guards, ownership checks, least-privilege keys, self-run IDOR/SQLi audits.
 - 📍 Romania · remote · 🗣️ Romanian (native), English (professional)
 
@@ -28,9 +29,18 @@
 <p align="center">
   <img src="https://hirjoaba-ioan.ro/gh/badges/platforms_live-4-2ea44f.svg" alt="4 platforms live">
   <img src="https://hirjoaba-ioan.ro/gh/badges/functional_modules-60plus-0a66c2.svg" alt="60+ modules">
-  <img src="https://hirjoaba-ioan.ro/gh/badges/ai_video_dubbing-40plus_languages-8e75b2.svg" alt="40+ languages">
+  <img src="https://img.shields.io/badge/AI_tools_in_production-62-8e75b2" alt="62 AI tools">
+  <img src="https://img.shields.io/badge/open--source_agent_repos-3-2ea44f" alt="3 open-source agent repos">
   <img src="https://hirjoaba-ioan.ro/gh/badges/team_size-1-f05032.svg" alt="Solo">
 </p>
+
+### 🤖 Open-source agent work
+
+| Repo | What it shows | Results |
+|---|---|---|
+| **[tool-calling-agent](https://github.com/hirjoabaioan/tool-calling-agent)** | Tool registry with 3-point RBAC, writes as human-confirmed proposals, router with circuit breaker, metering, MCP server | 40 evals × 4 models: 88-98%, RBAC refusal 100% |
+| **[autonomy-levels-agent](https://github.com/hirjoabaioan/autonomy-levels-agent)** | WhatsApp-style agent: off / suggest / auto, customer-confirmed writes, server-side identity, dedup and loop guards | Prompt injection resisted 100% on 4 models |
+| **[speech-pipeline-bench](https://github.com/hirjoabaioan/speech-pipeline-bench)** | Provider-agnostic STT/TTS, transcript-based video editing, RO/EN benchmark | Whisper vs Scribe vs Gemini vs Google vs OpenAI: WER, cost, latency |
 
 ### 🧩 What I'm building
 
@@ -41,7 +51,7 @@
 | **[Event Creator Hub](https://github.com/hirjoabaioan/portfolio/tree/main/eventcreatorhub)** | Paperless judging, real-time scoreboards, WhatsApp | PHP · MySQL · Stripe |
 | **[WeddingPages](https://github.com/hirjoabaioan/portfolio/tree/main/weddingpages)** | Wedding-site builder + venue partner portal | PHP · Stripe Connect · S3 |
 | **[World Pulse](https://github.com/hirjoabaioan/world-pulse)** ⭐ open source | Real-time global events map on a zero-dependency D3 globe | Node · D3 · GDELT |
-| **[AI Orchestration](https://github.com/hirjoabaioan/portfolio/tree/main/ai-orchestration)** | Router, orchestrator & self-healing agent behind all of the above | Node · Python · Claude |
+| **[AI Orchestration](https://github.com/hirjoabaioan/portfolio/tree/main/ai-orchestration)** | Router, orchestrator & self-healing agent I build with (healer source published) | Node · Claude · DeepSeek |
 
 ➡️ Full showcase with architecture notes and screenshots: **[hirjoabaioan/portfolio](https://github.com/hirjoabaioan/portfolio)**
 
@@ -98,9 +108,9 @@
 ### ⚙️ Engineering principles
 
 - **Pragmatic over fashionable** — framework-free PHP where it's fastest to ship, Node microservices where they fit (media, PDF, queues).
-- **Own the whole lifecycle** — CI-less but disciplined: test env → lint → functional checks → production, with backups and rollbacks.
+- **Own the whole lifecycle** — test env → lint → functional checks → production, with backups and rollbacks; public repos run CI with offline eval replay on every push.
 - **Observable by default** — metrics, logs and alerts (Prometheus, Loki, Grafana → Telegram) on everything I run.
 
 ---
 
-<p align="center"><sub>Open to collaborations on SaaS, integrations and AI automation · <a href="mailto:hirjoaba.ioan@gmail.com">hirjoaba.ioan@gmail.com</a></sub></p>
+<p align="center"><sub>Open to full-time remote roles (EU/CET) and B2B contracts in AI agent engineering · <a href="mailto:hirjoaba.ioan@gmail.com">hirjoaba.ioan@gmail.com</a></sub></p>
