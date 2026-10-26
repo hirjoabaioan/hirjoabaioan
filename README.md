@@ -30,7 +30,7 @@
   <img src="https://hirjoaba-ioan.ro/gh/badges/platforms_live-4-2ea44f.svg" alt="4 platforms live">
   <img src="https://hirjoaba-ioan.ro/gh/badges/functional_modules-60plus-0a66c2.svg" alt="60+ modules">
   <img src="https://img.shields.io/badge/AI_tools_in_production-62-8e75b2" alt="62 AI tools">
-  <img src="https://img.shields.io/badge/open--source_agent_repos-3-2ea44f" alt="3 open-source agent repos">
+  <img src="https://img.shields.io/badge/open--source_agent_repos-4-2ea44f" alt="4 open-source agent repos">
   <img src="https://hirjoaba-ioan.ro/gh/badges/team_size-1-f05032.svg" alt="Solo">
 </p>
 
@@ -41,12 +41,13 @@
 | **[tool-calling-agent](https://github.com/hirjoabaioan/tool-calling-agent)** | Tool registry with 3-point RBAC, writes as human-confirmed proposals, router with circuit breaker, metering, MCP server | 40 evals × 4 models: 88-98%, RBAC refusal 100% |
 | **[autonomy-levels-agent](https://github.com/hirjoabaioan/autonomy-levels-agent)** | WhatsApp-style agent: off / suggest / auto, customer-confirmed writes, server-side identity, dedup and loop guards | Prompt injection resisted 100% on 4 models |
 | **[speech-pipeline-bench](https://github.com/hirjoabaioan/speech-pipeline-bench)** | Provider-agnostic STT/TTS, transcript-based video editing, RO/EN benchmark | Whisper vs Scribe vs Gemini vs Google vs OpenAI: WER, cost, latency |
+| **[server-update-agent](https://github.com/hirjoabaioan/server-update-agent)** | Weekly patching agent for my production server: policy decides (7-day soak, follow-up patch, human approval for minors), backup → test → prod with auto-rollback; the LLM only summarises changelogs | Rollback drill 5/5 restored in ~1 s each, 0 HTTP 5xx |
 
 ### 🧩 What I'm building
 
 | Project | What it is | Stack |
 |---|---|---|
-| **[IFindSpec / Avocățescu](https://github.com/hirjoabaioan/portfolio/tree/main/ifindspec)** | CRM, scheduling, payments, AI assistants, video & social marketing for professionals — dual-branded from one codebase | PHP 8.2 · MariaDB · Node · Stripe · AI |
+| **[IFindSpec / Avocățescu](https://github.com/hirjoabaioan/portfolio/tree/main/ifindspec)** | CRM, scheduling, payments, AI assistants, video & social marketing for professionals — dual-branded from one codebase | PHP 8.3 · MariaDB · Node · Stripe · AI |
 | **[StoryFuze](https://github.com/hirjoabaioan/portfolio/tree/main/storyfuze)** | Video editing by transcript, AI creatives, publishing to Meta / TikTok / YouTube / LinkedIn | PHP · Node · ffmpeg · fal.ai |
 | **[Event Creator Hub](https://github.com/hirjoabaioan/portfolio/tree/main/eventcreatorhub)** | Paperless judging, real-time scoreboards, WhatsApp | PHP · MySQL · Stripe |
 | **[WeddingPages](https://github.com/hirjoabaioan/portfolio/tree/main/weddingpages)** | Wedding-site builder + venue partner portal | PHP · Stripe Connect · S3 |
